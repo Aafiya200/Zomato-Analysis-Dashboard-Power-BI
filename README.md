@@ -1,2 +1,4 @@
 # Zomato-Analysis-Dashboard-Power-BI
-I developed a comprehensive project in Power BI, Creating Multiple visuals to analyze the data. This process involved several stages, including data cleaning and data visualization.
+
+Project Description:
+This project involves the creation of an interactive Power BI dashboard to analyze Zomato sales data. The dashboard provides key insights into sales performance, customer behavior, and operational efficiency. It enables data-driven decision-making by visualizing trends, patterns, and key performance indicators (KPIs).
