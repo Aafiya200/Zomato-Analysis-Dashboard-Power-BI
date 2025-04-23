@@ -23,7 +23,8 @@ This project involves the creation of an interactive Power BI dashboard to analy
 
 ### Data Source:
 
-* Zomato's public dataset
+https://github.com/Aafiya200/Zomato-Analysis-Dashboard-Power-BI/blob/main/Zomata%20-%20Copy.xlsx
+
 
 ### How to Use:
 
