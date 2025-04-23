@@ -21,10 +21,9 @@ This project involves the creation of an interactive Power BI dashboard to analy
 * Power Query Editor
 * DAX (Data Analysis Expressions)
 
-### Data Source:
+### Dataset Used:
 
-https://github.com/Aafiya200/Zomato-Analysis-Dashboard-Power-BI/blob/main/Zomata%20-%20Copy.xlsx
-
+- <a href = "https://github.com/Aafiya200/Zomato-Analysis-Dashboard-Power-BI/blob/main/Zomata%20-%20Copy.xlsx" >Dataset</a>
 
 ### How to Use:
 
