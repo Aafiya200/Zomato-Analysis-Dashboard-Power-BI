@@ -15,6 +15,18 @@ This project involves the creation of an interactive Power BI dashboard to analy
 * Interactive Filters and Slicers: Users can filter and slice the data by date range, city, restaurant, and other relevant dimensions to explore specific segments.
 * DAX Measures: Complex calculations and business logic are implemented using DAX (Data Analysis Expressions) to create insightful metrics.
 
+### Question KPI's:
+* what are the total count of restuarants?
+* which are the top 5 cities by no.of restuarants?
+* Count of cities and countries
+* Count of Cuisines
+* what is the average cost of two?
+
+- <a href = "https://github.com/user-attachments/assets/f1e04815-4aec-4225-9f91-336894b3f2fd">Homepage Dashboard</a>
+- <a href = "https://github.com/user-attachments/assets/c9d065b2-b927-4e17-a59e-4b6cf07a4e21">Analytical View Dashboard</a>
+- <a href = "https://github.com/user-attachments/assets/dd4240c0-5b67-483e-8281-50f500a683c6">Map Overview Dashboard</a>
+
+
 ### Technologies Used:
 
 * Power BI
